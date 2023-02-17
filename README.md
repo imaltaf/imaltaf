@@ -1,5 +1,6 @@
 # 💫 About Me:
 | Pentester  ⌨️💾💻 | Photographer 📸 | Mechanic 🛠️🧰⚠️ | G A M E R 🎮👾 |
+
 🔭 I’m currently working on recon tools - project_recon<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with bash scripts automation <br>🌱 I’m currently learning - go-lang, JS, Android dev<br>💬 Ask me about cyber sec , Automation <br>⚡ Fun fact
 
 
