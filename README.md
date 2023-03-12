@@ -1,6 +1,6 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 
- ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Altaf)
+
 
 | Pentester  ⌨️💾💻 | Photographer 📸 | Mechanic 🛠️🧰⚠️ | G A M E R 🎮👾 |
 
