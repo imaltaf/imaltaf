@@ -3,7 +3,11 @@
 
 🔭 I’m currently working on recon tools - project_recon<br>👯 I’m looking to collaborate on project_recon <br>🤝 I’m looking for help with bash scripts automation <br>🌱 I’m currently learning - go-lang, JS, Android dev<br>💬 Ask me about cyber sec , Automation
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+<p align="center">
+  <a href=""><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+	<a href=""><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>   
+
+</p>
 
 
 ## 🌐 Socials:
