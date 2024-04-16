@@ -40,13 +40,12 @@
 
 # cybersecurity skills
 
-[![BurpSuite Pro](https://img.shields.io/badge/BurpSuite_Pro-Professional-red?style=for-the-badge&logo=burpsuite)](https://portswigger.net/burp)
+[![BurpSuite](https://img.shields.io/badge/BurpSuite_Pro-Professional-red?style=for-the-badge&logo=burpsuite)](https://portswigger.net/burp)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Proxy-orange?style=for-the-badge&logo=owasp)](https://www.zaproxy.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Distribution-blue?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
 [![Parrot OS](https://img.shields.io/badge/Parrot_OS-Distribution-yellow?style=for-the-badge&logo=linux)](https://www.parrotsec.org/)
 [![Postman](https://img.shields.io/badge/Postman-Client-lightgrey?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Analyzer-green?style=for-the-badge&logo=wireshark)](https://www.wireshark.org/)
-v
 
 
 <img src="./rainbow-superthin.gif">
