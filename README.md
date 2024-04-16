@@ -43,9 +43,13 @@
 
 # cybersecurity skills
 
-![Burpsuite](https://img.shields.io/badge/-burpsuite-orange)
-![kali-linux](https://img.shields.io/badge/-kali--linux-blue)
-![https://img.shields.io/badge/-wazuh-blueviolet](https://img.shields.io/badge/-wazuh-blueviolet)
+[![BurpSuite Pro](https://img.shields.io/badge/BurpSuite_Pro-Professional-red?style=flat-square)](https://portswigger.net/burp)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Proxy-orange?style=flat-square)](https://www.zaproxy.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Distribution-blue?style=flat-square)](https://www.kali.org/)
+[![Parrot OS](https://img.shields.io/badge/Parrot_OS-Distribution-yellow?style=flat-square)](https://www.parrotsec.org/)
+[![Postman](https://img.shields.io/badge/Postman-Client-lightgrey?style=flat-square)](https://www.postman.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-Analyzer-green?style=flat-square)](https://www.wireshark.org/)
+
 
 <img src="./rainbow-superthin.gif">
 
