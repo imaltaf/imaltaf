@@ -49,6 +49,10 @@
 
 <img src="./rainbow-superthin.gif">
 
+# Support Me ☕
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=for-the-badge)](https://www.buymeacoffee.com/imaltaf)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imaltaf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
