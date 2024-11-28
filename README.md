@@ -6,11 +6,30 @@
 <!-- Title -->
 <h1 align="center">About Me</h1>
 
+# About Me
 
+👨‍💻 **Threat Hunter & SOC Warrior**  
+🔍 Specializing in **Cyber Threat Intelligence (CTI)** and **SIEM** solutions to combat evolving cyber threats.  
 
-| Pentester  ⌨️💾💻 | Photographer 📸 | Mechanic 🛠️🧰⚠️ | G A M E R 🎮👾 |
+⚔️ **Cyber Arsenal**:  
+- **Burp Suite Pro**  
+- **Wireshark**  
+- **Kali Linux**  
 
-🔭 I’m currently working on recon tools - project_recon<br>👯 I’m looking to collaborate on project_recon <br>🤝 I’m looking for help with bash scripts automation <br>🌱 I’m currently learning - go-lang, JS, Android dev<br>💬 Ask me about cyber sec , Automation
+☁️ **Cloud Guardian**:  
+Proficient in **AWS** and **Oracle Cloud** for secure and scalable solutions.  
+
+🛠️ **DevSecOps Craftsman**:  
+Blending development, security, and operations for robust CI/CD pipelines.  
+
+🎥 **Content Creator**:  
+Sharing cybersecurity knowledge as a **YouTuber**.  
+
+🐞 **Bug Bounty Hunter**:  
+Passionate about uncovering vulnerabilities and strengthening systems.
+
+💡 Let's collaborate and secure the digital world together!
+
 
 
 
