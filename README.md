@@ -6,7 +6,6 @@
 <!-- Title -->
 <h1 align="center">About Me</h1>
 
-# About Me
 
 👨‍💻 **Threat Hunter & SOC Warrior**  
 🔍 Specializing in **Cyber Threat Intelligence (CTI)** and **SIEM** solutions to combat evolving cyber threats.  
