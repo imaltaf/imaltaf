@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/DarkMechanic.png" alt="Your Image Badge" />
 
 <!-- Title -->
 <h1 align="center">About Me</h1>
@@ -28,6 +29,7 @@ Sharing cybersecurity knowledge as a **YouTuber**.
 Passionate about uncovering vulnerabilities and strengthening systems.
 
 💡 Let's collaborate and secure the digital world together!
+
 
 
 
